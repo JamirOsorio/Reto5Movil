@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Reto4B1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_add">Add</string>
+    <string name="action_show">Show All</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_sucursales">SUCURSALES</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps_show">MapsActivityShow</string>
+</resources>
